@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -23,4 +24,6 @@
 hs_err_pid*
 replay_pid*
 
+=======
+>>>>>>> 79ab86e (first commit)
 .vscode
