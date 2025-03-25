@@ -1,0 +1,5 @@
+nome = input("Digite um nome: ")
+nome2 = input("Digite outro nome: ")
+lugar = input("Digite um lugar: ")
+comida = input("Digite um tipo de comida: ")
+print(f"{nome} e {nome2} foram para {lugar} e comeram {comida}.")
